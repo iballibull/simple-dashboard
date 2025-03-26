@@ -15,7 +15,7 @@
                 </button>
                 <a href="/" class="flex ms-2 md:me-24">
                     <span class="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap">
-                        Simple Dashboard</span>
+                        Dashboard Penjualan</span>
                 </a>
             </div>
         </div>
